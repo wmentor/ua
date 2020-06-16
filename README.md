@@ -19,13 +19,14 @@ go get github.com/wmentor/ua
 package main
 
 import (
+  "fmt"
   "strings"
   "time"
 
   "github.com/wmentor/ua"
 )
 
-package main() {
+func main() {
 
   agent := ua.New()
 
