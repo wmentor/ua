@@ -3,7 +3,7 @@ Simple http client
 # Summary
 
 * Use tiny Go
-* Require Go version >= 1.10
+* Require Go version >= 1.20
 * Minimum external dependencies
 * Simple in usage
 
